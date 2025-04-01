@@ -1,0 +1,44 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: oklch(0.21 0.034 264.665);
+    color: lightgrey;
+    }
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+    color: lightgrey;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+#parmesan_cheese_spaghetti {
+    width: 800px;
+    height: auto;
+
+}
+
+#maultaschen {
+    width: 800px;
+    height: auto;
+
+}
+
+#recipe {
+    text-align: center;
+    margin: 20px;
+    background-color: darkgrey;
+    height: 200px;
+    width: 350px;
+    padding: 80px;
+    box-sizing: border-box;
+    position: relative;
+    color: red;
+    font-size: 20px;
+    
+}
